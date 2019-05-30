@@ -9,7 +9,7 @@ Este login tiene los features de Crear usuarios, Encriptar sus contraseñas con 
 ### Languages, Technologies & Libraries Used
 * HTML5
 * CSS3
-* Bootstrap 4.3.1
+* Materialize 1.0.0
 * JavaScript
 * NodeJs
 * Express
