@@ -37,7 +37,7 @@ console.log(process.env.DB_HOST); // => localhost
 ```
  **************************************************** 
  # .env 
- Debemos crear un archivo  .env  en el directorio raiz del proyecto y en el
+ Debemos crear un archivo  ".env"  en el directorio raiz del proyecto y en el
  agregar, cambiando solamente el valor de las variables por las nuestras , lo siguiente:
  
  ```ruby
